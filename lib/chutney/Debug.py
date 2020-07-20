@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 #
 # Copyright 2011 Nick Mathewson, Michael Stone
 # Copyright 2013 The Tor Project
